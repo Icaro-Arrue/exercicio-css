@@ -1,0 +1,31 @@
+*{
+      background-color: rgb(226, 226, 226)
+}
+
+*{
+    font-family: 'Mukta', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(131, 159, 197);
+}
+
+table{
+    margin: 2em;
+}
+    
+#foto{
+    border: 20px double;
+    margin-left: 9em;
+}
+
+.centro{
+    text-align: center;
+}
+
+h3{
+    padding-left: 2em;
+}
+
+
